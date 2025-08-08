@@ -1,4 +1,4 @@
-## Hiya! 
+## Hiya! ^-^
 
 I'm a Computer Science Student @ **Oregon State University**.
 I am an aspiring software engineer with an interest in software development. 
