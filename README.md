@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hiya! 
+
+I'm a Computer Science Student @ **Oregon State University**.
+I am an aspiring software engineer with an interest in software development. 
+
+### I'm currently working on...
+> A small, light-weight tool for content creators that will allow them to create fun and engaging experiences with their audiences!
+> Currently being developed in JavaScript with Node.js and React.
+
+### I'm currently learning...
+> Currently learning web development and low-level programming. At the moment, I am enamored by low-level and still learning how I can utilize in the tools I like to make! 
+
 
 <!--
 **robertbarroso/robertbarroso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
