@@ -1,16 +1,16 @@
-## Hiya! ^-^
+## 👋 Hiya! ^-^
 
 I'm a Computer Science Student @ **Oregon State University**.
 I am an aspiring software engineer with an interest in software development. 
 
-### I'm currently working on...
-> A small, light-weight tool for content creators that will allow them to create fun and engaging experiences with their audiences!
-> Currently being developed in JavaScript with Node.js and React.
+### 🔭 I'm currently working on...
+> A small program that allows content creators to create their own schedules for their weekly streams, customize said schedule, and even add an image (or leave it blank to be added later) to their schedule. 
 
-### I'm currently learning...
-> Currently learning web development and low-level programming. At the moment, I am enamored by low-level and still learning how I can utilize in the tools I like to make! 
+### 🌱 I'm currently learning...
+> I’m currently exploring full-stack development with React and Node.js while also nurturing an interest in low-level programming, such as operating systems and kernel development.
 
-
+### 🤔 My history...
+> Once a marketing designer, now turned back to pursue what I wanted to originally - computer software and hardware engineering. A product of burnout, my choice to delve into marketing and design was one of wanting to breath from tons of stress at the time. Now after some time, I think now is the perfect momeent to return to a field I once loved - and still do - with a new mindset and free from burnout. 
 <!--
 **robertbarroso/robertbarroso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
