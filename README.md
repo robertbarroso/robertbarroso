@@ -9,10 +9,10 @@ CS student @ **Oregon State University** (B.S., Expected Aug 2026) with a backgr
 🟡: In Active Development
 > Open-source gradebook program for tutors, homeschool parents, and smaller school operations. Track student grades, add new assignments, and create report cards. Built with JavaScript, React, SQLite, Node.js, and Express. 
 
-**EduEngage**
+**Chatley**
 
-🟠: In Planning Phase
-> Create "rooms" for students to join and administer quizzes, tests, or fun questionares. Similar to Kahoot, but locally hosted through Wi-Fi. Built with JavaScript, React, Node.js, SQLite, Socket.IO. 
+🟡: In Active Development
+> Create your own custom Twitch chat overlay. Design and edit your own Twitch chat, and add it to OBS and see it appear on screen and stream! 
 
 <!--
 **robertbarroso/robertbarroso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
