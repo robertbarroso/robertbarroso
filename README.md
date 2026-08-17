@@ -1,8 +1,6 @@
 ## 👋 Hi, I'm Rob
 
-CS student @ **Oregon State University** (B.S. Computer Science, GPA 3.96 — Expected Aug 2026), moving into full-stack development from a background in content design.
-
-I build full-stack apps end-to-end — schema design through deployment — and care about *why* a stack choice works, not just that it does.
+CS student @ **Oregon State University** (B.S. Computer Science, GPA 3.96 — Aug 2026), moving into full-stack development from a background in content design.
 
 ### 🛠️ Stack
 
@@ -17,7 +15,7 @@ I build full-stack apps end-to-end — schema design through deployment — and 
 ### 🚧 Current Project
 
 **Leaflet — full-stack gradebook platform**
-🟡 In active development
+🟡 In active development 
 
 Built for instructors, tutors, and private teachers to track student progress and generate parent-facing report cards.
 
@@ -59,12 +57,6 @@ A UNIX-like shell built from scratch — process creation, execution, and backgr
 
 ---
 
-### 📊 GitHub Stats
+### 📫 Contact
 
-![Rob's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertbarroso&show_icons=true&theme=default)
-
----
-
-### 📫 Reach Me
-
-[LinkedIn](#) · robert.barroso@outlook.com
+[LinkedIn](#)
