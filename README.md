@@ -61,8 +61,7 @@ A UNIX-like shell built from scratch — process creation, execution, and backgr
 
 ### 📊 GitHub Stats
 
-<!-- Replace "yourusername" with your actual GitHub username -->
-![Rob's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+![Rob's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertbarroso&show_icons=true&theme=default)
 
 ---
 
