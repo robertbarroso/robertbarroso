@@ -27,7 +27,7 @@ Inspired by the real fulfillment workflow I work in day to day. All data and lay
 - **Quality:** Vitest, Playwright, GitHub Actions CI
 - **Planning:** built in public with issues, milestones, and PRs on a GitHub Project board
 
-🔗 [Repo](#) · 🔗 Live demo, coming soon
+🔗 [Repo](github.com/robertbarroso/stageline) · 🔗 Live demo, coming soon
 
 ---
 
@@ -38,28 +38,21 @@ Inspired by the real fulfillment workflow I work in day to day. All data and lay
 
 Building the core logic for viewer engagement, using game mechanics to get viewers more involved with commands and visible scores. Designed and normalized the PGlite schema for local data storage.
 
-🔗 [Repo](#)
+🔗 [Repo](github.com/robertbarroso/tally)
 
 **Foodable**: social community platform
 `React` `Node.js` `Express` `Supabase` `Vercel`
 
 Built the social feed, including profile and share pages and like/follow functionality. Designed and normalized the Supabase schema and handled user authentication. Tested API endpoints with Postman and deployed to Vercel.
 
-🔗 [Repo](#) · 🔗 [Live site](#)
+🔗 [Repo](github.com/robertbarroso/foodable)  
 
-**Leaflet**: gradebook platform (in progress)
-`Java` `Spring Boot` `React` `Supabase`
-
-A gradebook for instructors, tutors, and private teachers to track student progress and generate parent-facing report cards, with a normalized PostgreSQL schema. I chose Spring Boot on purpose to get real depth on a JVM backend instead of staying JS-only.
-
-🔗 [Repo](#)
 
 **Unix Shell**
 `C`
 
 A UNIX-like shell built from scratch that parses commands and runs them with `fork()` and `exec()`. It supports built-ins (`cd`, `exit`, `status`), I/O redirection, and foreground and background execution. It handles SIGINT and SIGTSTP and manages process lifecycles to prevent zombie processes. This one sits closer to the OS than the rest of my work, which helped me understand what frameworks abstract away.
 
-🔗 [Repo](#)
 
 ---
 
