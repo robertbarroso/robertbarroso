@@ -1,57 +1,63 @@
 ## 👋 Hi, I'm Rob
 
-CS student @ **Oregon State University** (B.S. Computer Science, GPA 3.96 — Aug 2026), moving into full-stack development from a background in content design.
+Recent **Computer Science graduate** from **Oregon State University** (B.S., GPA 3.94), looking for an entry-level software developer role. I'm moving into full-stack development from a background in content design and software instruction. I've taught JavaScript to 1,000+ students, so I care about writing code and explanations that other people can follow.
 
 ### 🛠️ Stack
 
-**Languages:** Java · Python · JavaScript · C/C++ · SQL
-**Frontend:** React · Vue
+**Languages:** JavaScript · TypeScript · Python · Java · C · SQL
+**Frontend:** React · Next.js · Vue · Tailwind CSS
 **Backend:** Node.js · Express · Spring Boot
-**Data:** PostgreSQL · MySQL · MariaDB · MongoDB · Supabase · Firebase
-**Practices:** TDD · REST API design · Agile
+**Data:** PostgreSQL · PGlite · MySQL · MariaDB · MongoDB · Supabase
+**Practices:** TDD · REST API design · CI/CD · Agile · Database schema design
 
 ---
 
 ### 🚧 Current Project
 
-**Leaflet — full-stack gradebook platform**
-🟡 In active development 
+**Stageline: order fulfillment platform**
+🟡 In active development
 
-Built for instructors, tutors, and private teachers to track student progress and generate parent-facing report cards.
+A full-stack app for curbside pickup operations. Pickers get pick lists sorted by store location, staging bays are tracked by temperature zone, and managers get a live view of order status and orders at risk of missing their pickup window.
 
-- **Backend/middleware:** Java + Spring Boot
-- **Frontend:** React
-- **Data:** Normalized PostgreSQL schema in Supabase
-- **Auth & deploy:** Supabase auth, deploying to Vercel
+Inspired by the real fulfillment workflow I work in day to day. All data and layouts are fictional.
 
-> Chose Spring Boot here deliberately — most of my other projects run Node/Express, and I wanted real depth on a JVM backend rather than staying JS-only end to end.
+- **Frontend and backend:** Next.js (App Router) + TypeScript
+- **Data:** PostgreSQL via PGlite, with Prisma and versioned migrations
+- **Auth:** Auth.js with role-based access (picker, lead, manager)
+- **Quality:** Vitest, Playwright, GitHub Actions CI
+- **Planning:** built in public with issues, milestones, and PRs on a GitHub Project board
 
-🔗 [Repo](#) · 🔗 Live demo — coming soon
+🔗 [Repo](#) · 🔗 Live demo, coming soon
 
 ---
 
 ### 📂 Other Projects
 
-**Foodable** — social community platform
-`React` `Node.js` `Express` `Supabase` `Vercel`
+**Tally** (in progress)
+`React` `PGlite` `Node.js` `Express`
 
-Owned three core segments: the social feed, user authentication, and the database/middleware layer. Normalized the PostgreSQL schema in Supabase to support the feed, auth, and app data; built the Express middleware connecting the React frontend to the data layer.
-
-🔗 [Repo](#) · 🔗 [Live site](#)
-
-**Restaurant Management System**
-`React` `MariaDB` `Node.js/Express`
-
-Full-stack inventory, employee, and sales-tracking system for restaurants and cafes. Designed a normalized MariaDB schema and backend logic for customer data, transactions, and reservations.
+Building the core logic for viewer engagement, using game mechanics to get viewers more involved with commands and visible scores. Designed and normalized the PGlite schema for local data storage.
 
 🔗 [Repo](#)
 
-**Unix Shell Implementation**
+**Foodable**: social community platform
+`React` `Node.js` `Express` `Supabase` `Vercel`
+
+Built the social feed, including profile and share pages and like/follow functionality. Designed and normalized the Supabase schema and handled user authentication. Tested API endpoints with Postman and deployed to Vercel.
+
+🔗 [Repo](#) · 🔗 [Live site](#)
+
+**Leaflet**: gradebook platform (in progress)
+`Java` `Spring Boot` `React` `Supabase`
+
+A gradebook for instructors, tutors, and private teachers to track student progress and generate parent-facing report cards, with a normalized PostgreSQL schema. I chose Spring Boot on purpose to get real depth on a JVM backend instead of staying JS-only.
+
+🔗 [Repo](#)
+
+**Unix Shell**
 `C`
 
-A UNIX-like shell built from scratch — process creation, execution, and background job management with `fork()`, `execvp()`, and `waitpid()`, a custom tokenizing parser, and SIGINT/SIGSTOP signal handling.
-
-> This one sits closer to the OS than the rest of my work — useful for understanding what frameworks abstract away.
+A UNIX-like shell built from scratch that parses commands and runs them with `fork()` and `exec()`. It supports built-ins (`cd`, `exit`, `status`), I/O redirection, and foreground and background execution. It handles SIGINT and SIGTSTP and manages process lifecycles to prevent zombie processes. This one sits closer to the OS than the rest of my work, which helped me understand what frameworks abstract away.
 
 🔗 [Repo](#)
 
@@ -59,4 +65,4 @@ A UNIX-like shell built from scratch — process creation, execution, and backgr
 
 ### 📫 Contact
 
-[LinkedIn](#)
+[LinkedIn](https://linkedin.com/in/robertbarroso) · robert.barroso@outlook.com
